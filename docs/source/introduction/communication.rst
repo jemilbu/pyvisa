@@ -144,7 +144,7 @@ what you already attempted.
     The particular case of reading back large chunk of data either in ASCII
     or binary format is not discussed below but in :ref:`intro-rvalues`.
 
-Making sure the instrument understand the command
+Making sure the instrument understands the command
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 When using query, we are testing both writing to and reading from the
